@@ -21,3 +21,11 @@ Screen2 As screen:
         Y: =40
         ZIndex: =6
 
+    Label2 As label:
+        Height: =98
+        Text: ="chadhaaaa"
+        Width: =586
+        X: =190
+        Y: =412
+        ZIndex: =7
+
