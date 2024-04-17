@@ -1,26 +1,94 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Dropdown1": 11,
+    "Host": 3,
+    "Image2": 6,
+    "Label1": 8,
+    "Label2": 12,
+    "navigate": 5,
+    "Rectangle1": 9,
+    "Screen1": 4,
+    "Screen2": 7,
+    "TextInput2": 10
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "04/17/2024 14:36:51",
   "IsLegacyComponentAllowGlobalScopeCase": false,
-  "LocalConnectionIDReferences": {},
-  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalConnectionIDReferences": {
+    "a1bc1795-22d8-42ae-a967-07d899d31986": "\"/providers/microsoft.powerapps/apis/shared_microsofttranslator/connections/ad713f659d954e938c128c7992e96273\"",
+    "ee79658a-20cb-4eb1-bcce-d05e6877d9a0": "\"/providers/microsoft.powerapps/apis/shared_translatorv2/connections/2d05c45484e940e489bf23d82089bf61\""
+  },
+  "LocalDatabaseReferencesAsEmpty": true,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "customIcons": 3,
+    "DropDownSample": 2,
+    "MicrosoftTranslator": 0,
+    "MicrosoftTranslatorV2": 1
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OrderXMLTemplate": {
+    "button": 0,
+    "dropdown": 5,
+    "image": 1,
+    "label": 2,
+    "rectangle": 3,
+    "text": 4
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Dropdown1": {},
+    "Host": {},
+    "Image2": {},
+    "Label1": {},
+    "Label2": {},
+    "navigate": {},
+    "Rectangle1": {},
+    "Screen1": {},
+    "Screen2": {},
+    "TextInput2": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {},
-  "ResourcesJsonIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Dropdown1": 10,
+    "Host": 0,
+    "Image2": 5,
+    "Label1": 7,
+    "Label2": 11,
+    "navigate": 4,
+    "Rectangle1": 8,
+    "Screen1": 3,
+    "Screen2": 6,
+    "TextInput2": 9
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0306197,
+    "ControlCount": {
+      "button": 1,
+      "dropdown": 1,
+      "image": 1,
+      "label": 2,
+      "rectangle": 1,
+      "screen": 2,
+      "text": 1
+    },
+    "DeserializationLoadTime": 0.3278406
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }
