@@ -14,7 +14,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "04/17/2024 14:04:43",
+  "HeaderLastSavedDateTimeUTC": "04/17/2024 14:10:03",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "a1bc1795-22d8-42ae-a967-07d899d31986": "\"/providers/microsoft.powerapps/apis/shared_microsofttranslator/connections/ad713f659d954e938c128c7992e96273\"",
@@ -71,7 +71,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1226116,
+    "AnalysisLoadTime": 0.1244191,
     "ControlCount": {
       "button": 1,
       "dropdown": 1,
@@ -80,7 +80,7 @@
       "screen": 2,
       "text": 1
     },
-    "DeserializationLoadTime": 0.6302535
+    "DeserializationLoadTime": 0.6236497
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
