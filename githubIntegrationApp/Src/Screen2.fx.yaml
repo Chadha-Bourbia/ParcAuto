@@ -29,3 +29,9 @@ Screen2 As screen:
         Y: =412
         ZIndex: =7
 
+    Rectangle1 As rectangle:
+        Width: =361
+        X: =776
+        Y: =543
+        ZIndex: =8
+

@@ -9,13 +9,14 @@
     "Label1": 8,
     "Label2": 11,
     "navigate": 5,
+    "Rectangle1": 12,
     "Screen1": 4,
     "Screen2": 7,
     "TextInput2": 9
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "04/17/2024 14:14:58",
+  "HeaderLastSavedDateTimeUTC": "04/17/2024 14:21:39",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "a1bc1795-22d8-42ae-a967-07d899d31986": "\"/providers/microsoft.powerapps/apis/shared_microsofttranslator/connections/ad713f659d954e938c128c7992e96273\"",
@@ -37,10 +38,11 @@
   "OrderTemplate": {},
   "OrderXMLTemplate": {
     "button": 0,
-    "dropdown": 4,
+    "dropdown": 5,
     "image": 1,
-    "label": 2,
-    "text": 3
+    "label": 3,
+    "rectangle": 2,
+    "text": 4
   },
   "OverridablePropertiesEntry": {
     "App": {},
@@ -50,6 +52,7 @@
     "Label1": {},
     "Label2": {},
     "navigate": {},
+    "Rectangle1": {},
     "Screen1": {},
     "Screen2": {},
     "TextInput2": {}
@@ -64,6 +67,7 @@
     "Label1": 2,
     "Label2": 5,
     "navigate": 0,
+    "Rectangle1": 0,
     "Screen1": 0,
     "Screen2": 0,
     "TextInput2": 3
@@ -74,16 +78,16 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1244191,
+    "AnalysisLoadTime": 0.0956958,
     "ControlCount": {
       "button": 1,
       "dropdown": 1,
       "image": 1,
-      "label": 1,
+      "label": 2,
       "screen": 2,
       "text": 1
     },
-    "DeserializationLoadTime": 0.6236497
+    "DeserializationLoadTime": 0.647983
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
